@@ -1,0 +1,4 @@
+#Thu Feb 16 16:27:20 PST 2023
+base.0=E\:\\wedarranger_buisnessprofile\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
